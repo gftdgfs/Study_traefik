@@ -1,4 +1,4 @@
-FROM golang:1.19
+FROM golang:bookworm
 
 ARG USER=$USER
 ARG UID=$UID
